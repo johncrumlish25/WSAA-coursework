@@ -1,5 +1,5 @@
-# mysql_database.oy
-# Calling the sql commands in python 
+# mysql_database_create.py
+# Create database
 # Author: John Crumlish
 
 import mysql.connector 
